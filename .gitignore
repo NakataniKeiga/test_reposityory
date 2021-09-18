@@ -35,3 +35,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#個人指定フォルダ
+#ログ
+*.log
